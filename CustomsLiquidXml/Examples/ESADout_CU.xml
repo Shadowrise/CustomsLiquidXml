@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Studio 2020 (https://www.liquid-technologies.com) -->
+<ESADout_CU:ESADout_CU xmlns:cat_ru="urn:customs.ru:CommonAggregateTypes:5.10.0" xmlns:CategoryCust="urn:customs.ru:Categories:3.0.0" xmlns:catESAD_cu="urn:customs.ru:CUESADCommonAggregateTypesCust:5.15.0" xmlns:clt_ru="urn:customs.ru:CommonLeafTypes:5.10.0" xmlns:cltESAD_cu="urn:customs.ru:CUESADCommonLeafTypes:5.15.0" xmlns:ESADout_CU="urn:customs.ru:Information:CustomsDocuments:ESADout_CU:5.15.0" xmlns:RUDECLcat="urn:customs.ru:RUDeclCommonAggregateTypesCust:5.15.0" xmlns:RUScat_ru="urn:customs.ru:RUSCommonAggregateTypes:5.15.0" xmlns:RUSclt_ru="urn:customs.ru:RUSCommonLeafTypes:5.14.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:customs.ru:Information:CustomsDocuments:ESADout_CU:5.15.0 C:\Users\Viacheslav\Downloads\Customs\Schemas_out_5_15_0\Schemas_out_5_15_0\ESADout_CU.xsd" DocumentModeID="1006107E">
+    <cat_ru:DocumentID>string</cat_ru:DocumentID>
+    <cat_ru:RefDocumentID>string</cat_ru:RefDocumentID>
+    <ESADout_CU:EECEDocHeaderAddInfo>
+        <RUScat_ru:InfEnvelopeCode>P.ZP.03.MSG.232</RUScat_ru:InfEnvelopeCode>
+        <RUScat_ru:EDocCode>R.492</RUScat_ru:EDocCode>
+        <RUScat_ru:EDocDateTime>2006-05-18T06:02:09.12</RUScat_ru:EDocDateTime>
+    </ESADout_CU:EECEDocHeaderAddInfo>
+    <ESADout_CU:CustomsProcedure>AB</ESADout_CU:CustomsProcedure>
+    <ESADout_CU:CustomsModeCode>AB</ESADout_CU:CustomsModeCode>
+    <ESADout_CU:TransitFeature>A</ESADout_CU:TransitFeature>
+    <ESADout_CU:TransitDirectionCode>AB</ESADout_CU:TransitDirectionCode>
+    <ESADout_CU:ElectronicDocumentSign>AB</ESADout_CU:ElectronicDocumentSign>
+    <ESADout_CU:DeclarationKind>ABC</ESADout_CU:DeclarationKind>
+    <ESADout_CU:SubsoilSign>A</ESADout_CU:SubsoilSign>
+    <ESADout_CU:SealNumber>string</ESADout_CU:SealNumber>
+    <ESADout_CU:SealQuantity>194</ESADout_CU:SealQuantity>
+    <ESADout_CU:SealId>string</ESADout_CU:SealId>
+    <ESADout_CU:SealDescriptionText>string</ESADout_CU:SealDescriptionText>
+    <ESADout_CU:RecipientCountryCode>00</ESADout_CU:RecipientCountryCode>
+    <ESADout_CU:MovementCode>AB</ESADout_CU:MovementCode>
+    <ESADout_CU:ExecutionPlace>string</ESADout_CU:ExecutionPlace>
+    <ESADout_CU:RailwayStationCode>540548</ESADout_CU:RailwayStationCode>
+    <ESADout_CU:RailwayStampDate>1989-05-04</ESADout_CU:RailwayStampDate>
+    <ESADout_CU:RegNumberDoc>string</ESADout_CU:RegNumberDoc>
+    <ESADout_CU:SecurityLabelCode>ABCDEF</ESADout_CU:SecurityLabelCode>
+    <ESADout_CU:ESADout_CUGoodsShipment>
+        <catESAD_cu:OriginCountryName>string</catESAD_cu:OriginCountryName>
+        <catESAD_cu:TotalGoodsNumber>539</catESAD_cu:TotalGoodsNumber>
+        <catESAD_cu:CustCostCurrencyCode>ABC</catESAD_cu:CustCostCurrencyCode>
+        <ESADout_CU:ESADout_CUDeclarant />
+        <ESADout_CU:ESADout_CUGoodsLocation>
+            <ESADout_CU:InformationTypeCode>AB</ESADout_CU:InformationTypeCode>
+            <ESADout_CU:CustomsOffice>33333364</ESADout_CU:CustomsOffice>
+            <ESADout_CU:CustomsCountryCode>DQ</ESADout_CU:CustomsCountryCode>
+        </ESADout_CU:ESADout_CUGoodsLocation>
+        <ESADout_CU:ESADout_CUGoodsLocation>
+            <ESADout_CU:InformationTypeCode>AB</ESADout_CU:InformationTypeCode>
+            <ESADout_CU:CustomsOffice>93</ESADout_CU:CustomsOffice>
+            <ESADout_CU:CustomsCountryCode>99</ESADout_CU:CustomsCountryCode>
+        </ESADout_CU:ESADout_CUGoodsLocation>
+        <ESADout_CU:ESADout_CUMainContractTerms />
+        <ESADout_CU:ESADout_CUGoods>
+            <catESAD_cu:GoodsNumeric>339</catESAD_cu:GoodsNumeric>
+        </ESADout_CU:ESADout_CUGoods>
+        <ESADout_CU:ESADout_CUGoods>
+            <catESAD_cu:GoodsNumeric>610</catESAD_cu:GoodsNumeric>
+        </ESADout_CU:ESADout_CUGoods>
+        <ESADout_CU:ESADout_CUGoods>
+            <catESAD_cu:GoodsNumeric>202</catESAD_cu:GoodsNumeric>
+        </ESADout_CU:ESADout_CUGoods>
+        <ESADout_CU:ESADout_CUGoods>
+            <catESAD_cu:GoodsNumeric>783</catESAD_cu:GoodsNumeric>
+        </ESADout_CU:ESADout_CUGoods>
+        <ESADout_CU:ESADout_CUGoods>
+            <catESAD_cu:GoodsNumeric>982</catESAD_cu:GoodsNumeric>
+        </ESADout_CU:ESADout_CUGoods>
+        <ESADout_CU:ESADout_CUPayments />
+        <ESADout_CU:Guarantee>
+            <catESAD_cu:PaymentWayCode>AB</catESAD_cu:PaymentWayCode>
+            <catESAD_cu:Amount>2608650.23</catESAD_cu:Amount>
+        </ESADout_CU:Guarantee>
+        <ESADout_CU:TDGuarantee>
+            <catESAD_cu:MeasureCode>55</catESAD_cu:MeasureCode>
+        </ESADout_CU:TDGuarantee>
+        <ESADout_CU:TDGuarantee>
+            <catESAD_cu:MeasureCode>10</catESAD_cu:MeasureCode>
+        </ESADout_CU:TDGuarantee>
+        <ESADout_CU:TDGuarantee>
+            <catESAD_cu:MeasureCode>09</catESAD_cu:MeasureCode>
+        </ESADout_CU:TDGuarantee>
+    </ESADout_CU:ESADout_CUGoodsShipment>
+    <ESADout_CU:RBTechMarK>
+        <cat_ru:PrDocumentDate>2018-02-22</cat_ru:PrDocumentDate>
+        <ESADout_CU:DelcKind>AB</ESADout_CU:DelcKind>
+        <ESADout_CU:DocumentModeCode>ABCDE</ESADout_CU:DocumentModeCode>
+    </ESADout_CU:RBTechMarK>
+    <ESADout_CU:FilledPerson>
+        <RUDECLcat:SigningDetails>
+            <cat_ru:PersonSurname>string</cat_ru:PersonSurname>
+            <cat_ru:PersonName>string</cat_ru:PersonName>
+            <RUScat_ru:SigningDate>1982-01-15T13:29:08.03</RUScat_ru:SigningDate>
+        </RUDECLcat:SigningDetails>
+        <RUDECLcat:SignatoryPersonIdentityDetails />
+        <RUDECLcat:QualificationCertificate>string</RUDECLcat:QualificationCertificate>
+        <RUDECLcat:PowerOfAttorneyDetails />
+    </ESADout_CU:FilledPerson>
+    <ESADout_CU:SignCertifPerson>
+        <cat_ru:PersonSurname>string</cat_ru:PersonSurname>
+        <cat_ru:PersonName>string</cat_ru:PersonName>
+        <cat_ru:PersonMiddleName>string</cat_ru:PersonMiddleName>
+        <RUDECLcat:SNILS>string</RUDECLcat:SNILS>
+        <RUDECLcat:OrganizationName>string</RUDECLcat:OrganizationName>
+    </ESADout_CU:SignCertifPerson>
+    <ESADout_CU:CUESADCustomsRepresentative>
+        <RUDECLcat:BrokerRegistryDocDetails>
+            <RUDECLcat:RegisterDocumentDetails>
+                <RUScat_ru:RegistrationNumberId>string</RUScat_ru:RegistrationNumberId>
+            </RUDECLcat:RegisterDocumentDetails>
+        </RUDECLcat:BrokerRegistryDocDetails>
+        <RUDECLcat:RepresentativeContractDetails />
+    </ESADout_CU:CUESADCustomsRepresentative>
+</ESADout_CU:ESADout_CU>

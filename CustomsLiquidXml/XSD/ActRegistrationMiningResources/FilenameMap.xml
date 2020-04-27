@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SchemaMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Compressed="true">
+  <SchemaEntry OriginalSchemaUri="C:\Users\Viacheslav\source\repos\CustomsLiquidXml\CustomsLiquidXml\XSD\CategoriesCust.xsd" ResourceSchemaUri="Schema1.zxsd" TargetNamespaceUri="urn:customs.ru:Categories:3.0.0" ExplicitlyLoad="false" />
+  <SchemaEntry OriginalSchemaUri="C:\Users\Viacheslav\source\repos\CustomsLiquidXml\CustomsLiquidXml\XSD\CommonLeafTypesCust.xsd" ResourceSchemaUri="Schema2.zxsd" TargetNamespaceUri="urn:customs.ru:CommonLeafTypes:5.10.0" ExplicitlyLoad="false" />
+  <SchemaEntry OriginalSchemaUri="C:\Users\Viacheslav\source\repos\CustomsLiquidXml\CustomsLiquidXml\XSD\CommonAggregateTypesCust.xsd" ResourceSchemaUri="Schema3.zxsd" TargetNamespaceUri="urn:customs.ru:CommonAggregateTypes:5.10.0" ExplicitlyLoad="false" />
+  <SchemaEntry OriginalSchemaUri="C:\Users\Viacheslav\source\repos\CustomsLiquidXml\CustomsLiquidXml\XSD\ActRegistrationMining.xsd" ResourceSchemaUri="Schema4.zxsd" TargetNamespaceUri="urn:customs.ru:Information:CustomsDocuments:ActRegistrationMining:5.10.0" ExplicitlyLoad="true" />
+</SchemaMap>

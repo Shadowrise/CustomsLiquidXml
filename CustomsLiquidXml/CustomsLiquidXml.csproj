@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiquidTechnologies.XmlObjects.Runtime" Version="18.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="XSD\ActRegistrationMining.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ActRegistrationMining.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="XSD\ESADout_CU.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ESADout_CU.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Examples\ESADout_CU.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="XSD\ActRegistrationMining.xsd">
+      <Generator>LxCodeGenerator</Generator>
+      <LastGenOutput>ActRegistrationMining.cs</LastGenOutput>
+    </None>
+    <None Update="XSD\ESADout_CU.xsd">
+      <Generator>LxCodeGenerator</Generator>
+      <LastGenOutput>ESADout_CU.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
